@@ -1,0 +1,6 @@
+/Users/KhalilS/RiderProjects/GameOfWar1.1/GameOfWar1.1/bin/Debug/GameOfWar1._1.exe
+/Users/KhalilS/RiderProjects/GameOfWar1.1/GameOfWar1.1/bin/Debug/GameOfWar1._1.pdb
+/Users/KhalilS/RiderProjects/GameOfWar1.1/GameOfWar1.1/obj/Debug/GameOfWar1.1.csprojResolveAssemblyReference.cache
+/Users/KhalilS/RiderProjects/GameOfWar1.1/GameOfWar1.1/obj/Debug/GameOfWar1.1.csproj.CoreCompileInputs.cache
+/Users/KhalilS/RiderProjects/GameOfWar1.1/GameOfWar1.1/obj/Debug/GameOfWar1._1.exe
+/Users/KhalilS/RiderProjects/GameOfWar1.1/GameOfWar1.1/obj/Debug/GameOfWar1._1.pdb
