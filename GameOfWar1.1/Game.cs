@@ -6,6 +6,9 @@ namespace GameOfWar1._1
 {
          public class Game
     {
+        /**
+         * minimize the amount of Enqueue lines
+         */
         private Player Player1;
         private Player Player2;
         public int TurnCount;
@@ -106,7 +109,8 @@ namespace GameOfWar1._1
             } 
               else if (TurnCount > 1000)
             {
-                Console.WriteLine("Error!! INFINITE GAME MATCH OVER!!!");
+                Console.WriteLine("Game has lasted longer than expected. " +
+                                  "GAME MATCH OVER!!!");
                 return true;
             }
             return false;

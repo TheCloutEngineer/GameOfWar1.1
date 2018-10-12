@@ -39,14 +39,14 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="cs" value="159" />
+          <entry key="cs" value="211" />
           <entry key="iml" value="1" />
           <entry key="md" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="C#" value="159" />
+          <entry key="C#" value="211" />
           <entry key="IDEA_MODULE" value="1" />
           <entry key="Markdown" value="2" />
         </counts>
@@ -90,24 +90,26 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/GameOfWar1.1/Game.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="571">
-              <caret line="82" column="9" lean-forward="true" selection-start-line="82" selection-start-column="9" selection-end-line="82" selection-end-column="9" />
+            <state relative-caret-position="305">
+              <caret line="65" column="26" selection-start-line="65" selection-start-column="26" selection-end-line="65" selection-end-column="26" />
               <folding>
-                <marker date="1539380932000" expanded="false" signature="6:66" ph="..." />
-                <marker date="1539380932000" expanded="true" signature="91:3341" ph="{...}" />
-                <marker date="1539380932000" expanded="true" signature="120:3339" ph="{...}" />
-                <marker date="1539380932000" expanded="true" signature="289:615" ph="{...}" />
-                <marker date="1539380932000" expanded="true" signature="655:2505" ph="{...}" />
-                <marker date="1539380932000" expanded="true" signature="1082:2113" ph="{...}" />
-                <marker date="1539380932000" expanded="true" signature="1183:1289" ph="{...}" />
-                <marker date="1539380932000" expanded="true" signature="1332:1438" ph="{...}" />
-                <marker date="1539380932000" expanded="true" signature="2168:2310" ph="{...}" />
-                <marker date="1539380932000" expanded="true" signature="2327:2469" ph="{...}" />
-                <marker date="1539380932000" expanded="true" signature="2560:2631" ph="{...}" />
-                <marker date="1539380932000" expanded="true" signature="2665:3333" ph="{...}" />
-                <marker date="1539380932000" expanded="true" signature="2824:2959" ph="{...}" />
-                <marker date="1539380932000" expanded="true" signature="2989:3124" ph="{...}" />
-                <marker date="1539380932000" expanded="true" signature="3166:3297" ph="{...}" />
+                <marker date="1539381191000" expanded="false" signature="6:66" ph="..." />
+                <marker date="1539381191000" expanded="true" signature="91:3736" ph="{...}" />
+                <marker date="1539381191000" expanded="true" signature="120:3734" ph="{...}" />
+                <marker date="1539381191000" expanded="true" signature="135:198" ph="/* minimize the amount of Enqueue lines ... */" />
+                <marker date="1539381191000" expanded="true" signature="361:687" ph="{...}" />
+                <marker date="1539381191000" expanded="true" signature="727:2637" ph="{...}" />
+                <marker date="1539381191000" expanded="true" signature="1154:2245" ph="{...}" />
+                <marker date="1539381191000" expanded="true" signature="1255:1361" ph="{...}" />
+                <marker date="1539381191000" expanded="true" signature="1404:1510" ph="{...}" />
+                <marker date="1539381191000" expanded="true" signature="1528:1863" ph="/* pool.Enqueue(Player1.Deck.Dequeue()); ... */" />
+                <marker date="1539381191000" expanded="true" signature="2300:2442" ph="{...}" />
+                <marker date="1539381191000" expanded="true" signature="2459:2601" ph="{...}" />
+                <marker date="1539381191000" expanded="true" signature="2692:3026" ph="{...}" />
+                <marker date="1539381191000" expanded="true" signature="3060:3728" ph="{...}" />
+                <marker date="1539381191000" expanded="true" signature="3219:3354" ph="{...}" />
+                <marker date="1539381191000" expanded="true" signature="3384:3519" ph="{...}" />
+                <marker date="1539381191000" expanded="true" signature="3561:3692" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -336,12 +338,12 @@
       <updated>1539034383582</updated>
       <workItem from="1539034385304" duration="3005000" />
       <workItem from="1539197208893" duration="1372000" />
-      <workItem from="1539380655268" duration="266000" />
+      <workItem from="1539380655268" duration="523000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4643000" />
+    <option name="totallyTimeSpent" value="4900000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -361,7 +363,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32876712" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49919224" visible="true" weight="0.32876712" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -372,7 +374,7 @@
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Unit Tests" order="11" />
       <window_info anchor="bottom" id="Terminal" order="12" weight="0.32876712" />
-      <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="13" sideWeight="0.50080776" side_tool="true" weight="0.32876712" />
       <window_info anchor="bottom" id="Build" order="14" weight="0.32876712" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -503,24 +505,26 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/GameOfWar1.1/Game.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="571">
-          <caret line="82" column="9" lean-forward="true" selection-start-line="82" selection-start-column="9" selection-end-line="82" selection-end-column="9" />
+        <state relative-caret-position="305">
+          <caret line="65" column="26" selection-start-line="65" selection-start-column="26" selection-end-line="65" selection-end-column="26" />
           <folding>
-            <marker date="1539380932000" expanded="false" signature="6:66" ph="..." />
-            <marker date="1539380932000" expanded="true" signature="91:3341" ph="{...}" />
-            <marker date="1539380932000" expanded="true" signature="120:3339" ph="{...}" />
-            <marker date="1539380932000" expanded="true" signature="289:615" ph="{...}" />
-            <marker date="1539380932000" expanded="true" signature="655:2505" ph="{...}" />
-            <marker date="1539380932000" expanded="true" signature="1082:2113" ph="{...}" />
-            <marker date="1539380932000" expanded="true" signature="1183:1289" ph="{...}" />
-            <marker date="1539380932000" expanded="true" signature="1332:1438" ph="{...}" />
-            <marker date="1539380932000" expanded="true" signature="2168:2310" ph="{...}" />
-            <marker date="1539380932000" expanded="true" signature="2327:2469" ph="{...}" />
-            <marker date="1539380932000" expanded="true" signature="2560:2631" ph="{...}" />
-            <marker date="1539380932000" expanded="true" signature="2665:3333" ph="{...}" />
-            <marker date="1539380932000" expanded="true" signature="2824:2959" ph="{...}" />
-            <marker date="1539380932000" expanded="true" signature="2989:3124" ph="{...}" />
-            <marker date="1539380932000" expanded="true" signature="3166:3297" ph="{...}" />
+            <marker date="1539381191000" expanded="false" signature="6:66" ph="..." />
+            <marker date="1539381191000" expanded="true" signature="91:3736" ph="{...}" />
+            <marker date="1539381191000" expanded="true" signature="120:3734" ph="{...}" />
+            <marker date="1539381191000" expanded="true" signature="135:198" ph="/* minimize the amount of Enqueue lines ... */" />
+            <marker date="1539381191000" expanded="true" signature="361:687" ph="{...}" />
+            <marker date="1539381191000" expanded="true" signature="727:2637" ph="{...}" />
+            <marker date="1539381191000" expanded="true" signature="1154:2245" ph="{...}" />
+            <marker date="1539381191000" expanded="true" signature="1255:1361" ph="{...}" />
+            <marker date="1539381191000" expanded="true" signature="1404:1510" ph="{...}" />
+            <marker date="1539381191000" expanded="true" signature="1528:1863" ph="/* pool.Enqueue(Player1.Deck.Dequeue()); ... */" />
+            <marker date="1539381191000" expanded="true" signature="2300:2442" ph="{...}" />
+            <marker date="1539381191000" expanded="true" signature="2459:2601" ph="{...}" />
+            <marker date="1539381191000" expanded="true" signature="2692:3026" ph="{...}" />
+            <marker date="1539381191000" expanded="true" signature="3060:3728" ph="{...}" />
+            <marker date="1539381191000" expanded="true" signature="3219:3354" ph="{...}" />
+            <marker date="1539381191000" expanded="true" signature="3384:3519" ph="{...}" />
+            <marker date="1539381191000" expanded="true" signature="3561:3692" ph="{...}" />
           </folding>
         </state>
       </provider>
