@@ -4,6 +4,7 @@
     <e p="$USER_HOME$/Library/Caches/Rider2018.2/extResources" t="IncludeRecursive" />
     <e p="$USER_HOME$/Library/Caches/Rider2018.2/resharper-host/local/Transient/ReSharperHost/v182/SolutionCaches/_GameOfWar1.1.-559187439.00" t="ExcludeRecursive" />
     <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p=".git/info/exclude" t="IncludeRecursive" />
       <e p="GameOfWar1.1" t="IncludeRecursive">
         <e p="bin" t="ExcludeRecursive">
           <e p="Debug" t="Include">
