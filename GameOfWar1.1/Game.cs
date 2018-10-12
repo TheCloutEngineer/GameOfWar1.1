@@ -47,13 +47,15 @@ namespace GameOfWar1._1
                     return;
                 }
                 
-                pool.Enqueue(Player1.Deck.Dequeue());
-                pool.Enqueue(Player1.Deck.Dequeue());
-                pool.Enqueue(Player1.Deck.Dequeue());
-                pool.Enqueue(Player2.Deck.Dequeue());
-                pool.Enqueue(Player2.Deck.Dequeue());
-                pool.Enqueue(Player2.Deck.Dequeue());
+//                pool.Enqueue(Player1.Deck.Dequeue());
+//                pool.Enqueue(Player1.Deck.Dequeue());
+//                pool.Enqueue(Player1.Deck.Dequeue());
+//                pool.Enqueue(Player2.Deck.Dequeue());
+//                pool.Enqueue(Player2.Deck.Dequeue());
+//                pool.Enqueue(Player2.Deck.Dequeue());
 
+                EnQueue(pool);
+                
                 player1card = Player1.Deck.Dequeue();
                 player2card = Player2.Deck.Dequeue();
 
@@ -75,6 +77,17 @@ namespace GameOfWar1._1
             }
 
             TurnCount++;
+        }
+        
+        public void EnQueue(Queue<Card> pool)
+        {
+             
+            pool.Enqueue(Player1.Deck.Dequeue());
+            pool.Enqueue(Player1.Deck.Dequeue());
+            pool.Enqueue(Player1.Deck.Dequeue());
+            pool.Enqueue(Player2.Deck.Dequeue());
+            pool.Enqueue(Player2.Deck.Dequeue());
+            pool.Enqueue(Player2.Deck.Dequeue());
         }
 
         public bool IsGameOver()

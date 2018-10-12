@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="922a876f-8cf5-4086-b9e8-7360c674b9c5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.GameOfWar1.1/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.GameOfWar1.1/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.GameOfWar1.1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.GameOfWar1.1/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GameOfWar1.1/bin/Debug/GameOfWar1._1.exe" beforeDir="false" afterPath="$PROJECT_DIR$/GameOfWar1.1/bin/Debug/GameOfWar1._1.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GameOfWar1.1/bin/Debug/GameOfWar1._1.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/GameOfWar1.1/bin/Debug/GameOfWar1._1.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GameOfWar1.1/obj/Debug/GameOfWar1._1.exe" beforeDir="false" afterPath="$PROJECT_DIR$/GameOfWar1.1/obj/Debug/GameOfWar1._1.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GameOfWar1.1/obj/Debug/GameOfWar1._1.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/GameOfWar1.1/obj/Debug/GameOfWar1._1.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GameOfWar1.1/Game.cs" beforeDir="false" afterPath="$PROJECT_DIR$/GameOfWar1.1/Game.cs" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,12 +17,13 @@
           <entry key="project.closed" value="2" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.72" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.open.time.85" value="1" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="cs" value="7" />
+          <entry key="cs" value="8" />
           <entry key="iml" value="1" />
           <entry key="md" value="1" />
           <entry key="xml" value="1" />
@@ -35,7 +31,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="C#" value="7" />
+          <entry key="C#" value="8" />
           <entry key="IDEA_MODULE" value="1" />
           <entry key="Markdown" value="1" />
           <entry key="XML" value="1" />
@@ -43,14 +39,14 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="cs" value="120" />
+          <entry key="cs" value="159" />
           <entry key="iml" value="1" />
           <entry key="md" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="C#" value="120" />
+          <entry key="C#" value="159" />
           <entry key="IDEA_MODULE" value="1" />
           <entry key="Markdown" value="2" />
         </counts>
@@ -94,23 +90,24 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/GameOfWar1.1/Game.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="600">
-              <caret line="58" lean-forward="true" selection-start-line="58" selection-end-line="58" />
+            <state relative-caret-position="571">
+              <caret line="82" column="9" lean-forward="true" selection-start-line="82" selection-start-column="9" selection-end-line="82" selection-end-column="9" />
               <folding>
-                <marker date="1539207665000" expanded="false" signature="6:66" ph="..." />
-                <marker date="1539207665000" expanded="true" signature="91:3215" ph="{...}" />
-                <marker date="1539207665000" expanded="true" signature="120:3213" ph="{...}" />
-                <marker date="1539207665000" expanded="true" signature="289:615" ph="{...}" />
-                <marker date="1539207665000" expanded="true" signature="655:2505" ph="{...}" />
-                <marker date="1539207665000" expanded="true" signature="1082:2113" ph="{...}" />
-                <marker date="1539207665000" expanded="true" signature="1183:1289" ph="{...}" />
-                <marker date="1539207665000" expanded="true" signature="1332:1438" ph="{...}" />
-                <marker date="1539207665000" expanded="true" signature="2168:2310" ph="{...}" />
-                <marker date="1539207665000" expanded="true" signature="2327:2469" ph="{...}" />
-                <marker date="1539207665000" expanded="true" signature="2539:3207" ph="{...}" />
-                <marker date="1539207665000" expanded="true" signature="2698:2833" ph="{...}" />
-                <marker date="1539207665000" expanded="true" signature="2863:2998" ph="{...}" />
-                <marker date="1539207665000" expanded="true" signature="3040:3171" ph="{...}" />
+                <marker date="1539380932000" expanded="false" signature="6:66" ph="..." />
+                <marker date="1539380932000" expanded="true" signature="91:3341" ph="{...}" />
+                <marker date="1539380932000" expanded="true" signature="120:3339" ph="{...}" />
+                <marker date="1539380932000" expanded="true" signature="289:615" ph="{...}" />
+                <marker date="1539380932000" expanded="true" signature="655:2505" ph="{...}" />
+                <marker date="1539380932000" expanded="true" signature="1082:2113" ph="{...}" />
+                <marker date="1539380932000" expanded="true" signature="1183:1289" ph="{...}" />
+                <marker date="1539380932000" expanded="true" signature="1332:1438" ph="{...}" />
+                <marker date="1539380932000" expanded="true" signature="2168:2310" ph="{...}" />
+                <marker date="1539380932000" expanded="true" signature="2327:2469" ph="{...}" />
+                <marker date="1539380932000" expanded="true" signature="2560:2631" ph="{...}" />
+                <marker date="1539380932000" expanded="true" signature="2665:3333" ph="{...}" />
+                <marker date="1539380932000" expanded="true" signature="2824:2959" ph="{...}" />
+                <marker date="1539380932000" expanded="true" signature="2989:3124" ph="{...}" />
+                <marker date="1539380932000" expanded="true" signature="3166:3297" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -119,11 +116,10 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/GameOfWar1.1/DeckGenerator.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="585">
+            <state relative-caret-position="765">
               <caret line="53" column="9" selection-start-line="53" selection-start-column="9" selection-end-line="53" selection-end-column="9" />
               <folding>
                 <marker date="1539207652000" expanded="false" signature="6:66" ph="..." />
-                <marker date="1539207652000" expanded="true" signature="91:1768" ph="{...}" />
                 <marker date="1539207652000" expanded="true" signature="131:1762" ph="{...}" />
                 <marker date="1539207652000" expanded="true" signature="198:329" ph="/* Start at 2 because Aces are counted higher than King ... */" />
                 <marker date="1539207652000" expanded="true" signature="329:797" ph="{...}" />
@@ -142,10 +138,9 @@
         <entry file="file://$PROJECT_DIR$/GameOfWar1.1/Player.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="165">
-              <caret line="12" column="24" lean-forward="true" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+              <caret line="12" column="24" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
               <folding>
                 <marker date="1539207639000" expanded="false" signature="6:52" ph="..." />
-                <marker date="1539207639000" expanded="true" signature="77:1113" ph="{...}" />
                 <marker date="1539207639000" expanded="true" signature="103:1109" ph="{...}" />
                 <marker date="1539207639000" expanded="true" signature="240:285" ph="{...}" />
                 <marker date="1539207639000" expanded="true" signature="294:479" ph="/* Will have two properties ... */" />
@@ -161,7 +156,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/GameOfWar1.1/Card.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="675">
+            <state relative-caret-position="735">
               <caret line="49" selection-start-line="49" selection-end-line="49" />
               <folding>
                 <marker date="1539035235000" expanded="true" signature="23:1192" ph="{...}" />
@@ -181,7 +176,6 @@
             <state relative-caret-position="150">
               <caret line="10" column="43" selection-start-line="10" selection-start-column="43" selection-end-line="10" selection-end-column="43" />
               <folding>
-                <marker date="1539035235000" expanded="true" signature="58:424" ph="{...}" />
                 <marker date="1539035235000" expanded="true" signature="65:166" ph="/* This class contains a method that places our playing cards into our queue ... */" />
                 <marker date="1539035235000" expanded="true" signature="201:422" ph="{...}" />
                 <marker date="1539035235000" expanded="true" signature="288:416" ph="{...}" />
@@ -204,6 +198,7 @@
     <setting file="file://$PROJECT_DIR$/GameOfWar1.1/Player.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/GameOfWar1.1/Card.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/GameOfWar1.1/Extensions.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F8BB3922-E517-44D9-ACE1-AA6AEDC374EA/71/5d31b54b/Queue`1.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -341,11 +336,12 @@
       <updated>1539034383582</updated>
       <workItem from="1539034385304" duration="3005000" />
       <workItem from="1539197208893" duration="1372000" />
+      <workItem from="1539380655268" duration="266000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4377000" />
+    <option name="totallyTimeSpent" value="4643000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -360,7 +356,7 @@
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.42245558" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.23990306" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -434,9 +430,45 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/GameOfWar1.1/DeckGenerator.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="53" column="9" selection-start-line="53" selection-start-column="9" selection-end-line="53" selection-end-column="9" />
+          <folding>
+            <marker date="1539207652000" expanded="false" signature="6:66" ph="..." />
+            <marker date="1539207652000" expanded="true" signature="131:1762" ph="{...}" />
+            <marker date="1539207652000" expanded="true" signature="198:329" ph="/* Start at 2 because Aces are counted higher than King ... */" />
+            <marker date="1539207652000" expanded="true" signature="329:797" ph="{...}" />
+            <marker date="1539207652000" expanded="true" signature="434:751" ph="{...}" />
+            <marker date="1539207652000" expanded="true" signature="533:737" ph="{...}" />
+            <marker date="1539207652000" expanded="true" signature="623:717" ph="{...}" />
+            <marker date="1539207652000" expanded="true" signature="860:1752" ph="{...}" />
+            <marker date="1539207652000" expanded="true" signature="1127:1527" ph="{...}" />
+            <marker date="1539207652000" expanded="true" signature="1636:1708" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GameOfWar1.1/Player.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="12" column="24" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+          <folding>
+            <marker date="1539207639000" expanded="false" signature="6:52" ph="..." />
+            <marker date="1539207639000" expanded="true" signature="103:1109" ph="{...}" />
+            <marker date="1539207639000" expanded="true" signature="240:285" ph="{...}" />
+            <marker date="1539207639000" expanded="true" signature="294:479" ph="/* Will have two properties ... */" />
+            <marker date="1539207639000" expanded="true" signature="531:1103" ph="{...}" />
+            <marker date="1539207639000" expanded="true" signature="720:1026" ph="{...}" />
+            <marker date="1539207639000" expanded="true" signature="772:867" ph="{...}" />
+            <marker date="1539207639000" expanded="true" signature="888:983" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/GameOfWar1.1/Card.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="675">
+        <state relative-caret-position="735">
           <caret line="49" selection-start-line="49" selection-end-line="49" />
           <folding>
             <marker date="1539035235000" expanded="true" signature="23:1192" ph="{...}" />
@@ -454,7 +486,6 @@
         <state relative-caret-position="150">
           <caret line="10" column="43" selection-start-line="10" selection-start-column="43" selection-end-line="10" selection-end-column="43" />
           <folding>
-            <marker date="1539035235000" expanded="true" signature="58:424" ph="{...}" />
             <marker date="1539035235000" expanded="true" signature="65:166" ph="/* This class contains a method that places our playing cards into our queue ... */" />
             <marker date="1539035235000" expanded="true" signature="201:422" ph="{...}" />
             <marker date="1539035235000" expanded="true" signature="288:416" ph="{...}" />
@@ -463,63 +494,33 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/GameOfWar1.1/Player.cs">
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F8BB3922-E517-44D9-ACE1-AA6AEDC374EA/71/5d31b54b/Queue`1.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="12" column="24" lean-forward="true" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
-          <folding>
-            <marker date="1539207639000" expanded="false" signature="6:52" ph="..." />
-            <marker date="1539207639000" expanded="true" signature="77:1113" ph="{...}" />
-            <marker date="1539207639000" expanded="true" signature="103:1109" ph="{...}" />
-            <marker date="1539207639000" expanded="true" signature="240:285" ph="{...}" />
-            <marker date="1539207639000" expanded="true" signature="294:479" ph="/* Will have two properties ... */" />
-            <marker date="1539207639000" expanded="true" signature="531:1103" ph="{...}" />
-            <marker date="1539207639000" expanded="true" signature="720:1026" ph="{...}" />
-            <marker date="1539207639000" expanded="true" signature="772:867" ph="{...}" />
-            <marker date="1539207639000" expanded="true" signature="888:983" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GameOfWar1.1/DeckGenerator.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="585">
-          <caret line="53" column="9" selection-start-line="53" selection-start-column="9" selection-end-line="53" selection-end-column="9" />
-          <folding>
-            <marker date="1539207652000" expanded="false" signature="6:66" ph="..." />
-            <marker date="1539207652000" expanded="true" signature="91:1768" ph="{...}" />
-            <marker date="1539207652000" expanded="true" signature="131:1762" ph="{...}" />
-            <marker date="1539207652000" expanded="true" signature="198:329" ph="/* Start at 2 because Aces are counted higher than King ... */" />
-            <marker date="1539207652000" expanded="true" signature="329:797" ph="{...}" />
-            <marker date="1539207652000" expanded="true" signature="434:751" ph="{...}" />
-            <marker date="1539207652000" expanded="true" signature="533:737" ph="{...}" />
-            <marker date="1539207652000" expanded="true" signature="623:717" ph="{...}" />
-            <marker date="1539207652000" expanded="true" signature="860:1752" ph="{...}" />
-            <marker date="1539207652000" expanded="true" signature="1127:1527" ph="{...}" />
-            <marker date="1539207652000" expanded="true" signature="1636:1708" ph="{...}" />
-          </folding>
+        <state relative-caret-position="235">
+          <caret line="148" column="16" selection-start-line="148" selection-start-column="16" selection-end-line="148" selection-end-column="16" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/GameOfWar1.1/Game.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="58" lean-forward="true" selection-start-line="58" selection-end-line="58" />
+        <state relative-caret-position="571">
+          <caret line="82" column="9" lean-forward="true" selection-start-line="82" selection-start-column="9" selection-end-line="82" selection-end-column="9" />
           <folding>
-            <marker date="1539207665000" expanded="false" signature="6:66" ph="..." />
-            <marker date="1539207665000" expanded="true" signature="91:3215" ph="{...}" />
-            <marker date="1539207665000" expanded="true" signature="120:3213" ph="{...}" />
-            <marker date="1539207665000" expanded="true" signature="289:615" ph="{...}" />
-            <marker date="1539207665000" expanded="true" signature="655:2505" ph="{...}" />
-            <marker date="1539207665000" expanded="true" signature="1082:2113" ph="{...}" />
-            <marker date="1539207665000" expanded="true" signature="1183:1289" ph="{...}" />
-            <marker date="1539207665000" expanded="true" signature="1332:1438" ph="{...}" />
-            <marker date="1539207665000" expanded="true" signature="2168:2310" ph="{...}" />
-            <marker date="1539207665000" expanded="true" signature="2327:2469" ph="{...}" />
-            <marker date="1539207665000" expanded="true" signature="2539:3207" ph="{...}" />
-            <marker date="1539207665000" expanded="true" signature="2698:2833" ph="{...}" />
-            <marker date="1539207665000" expanded="true" signature="2863:2998" ph="{...}" />
-            <marker date="1539207665000" expanded="true" signature="3040:3171" ph="{...}" />
+            <marker date="1539380932000" expanded="false" signature="6:66" ph="..." />
+            <marker date="1539380932000" expanded="true" signature="91:3341" ph="{...}" />
+            <marker date="1539380932000" expanded="true" signature="120:3339" ph="{...}" />
+            <marker date="1539380932000" expanded="true" signature="289:615" ph="{...}" />
+            <marker date="1539380932000" expanded="true" signature="655:2505" ph="{...}" />
+            <marker date="1539380932000" expanded="true" signature="1082:2113" ph="{...}" />
+            <marker date="1539380932000" expanded="true" signature="1183:1289" ph="{...}" />
+            <marker date="1539380932000" expanded="true" signature="1332:1438" ph="{...}" />
+            <marker date="1539380932000" expanded="true" signature="2168:2310" ph="{...}" />
+            <marker date="1539380932000" expanded="true" signature="2327:2469" ph="{...}" />
+            <marker date="1539380932000" expanded="true" signature="2560:2631" ph="{...}" />
+            <marker date="1539380932000" expanded="true" signature="2665:3333" ph="{...}" />
+            <marker date="1539380932000" expanded="true" signature="2824:2959" ph="{...}" />
+            <marker date="1539380932000" expanded="true" signature="2989:3124" ph="{...}" />
+            <marker date="1539380932000" expanded="true" signature="3166:3297" ph="{...}" />
           </folding>
         </state>
       </provider>
